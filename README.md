@@ -1,7 +1,7 @@
 # GPT2Augmentaion
-An experiment in augmenting IMDB dataset with GPT2
-Read Deep_proj.pdf for more information
-
+An experiment in augmenting IMDB dataset with GPT2. <BR>
+Read Deep_proj.pdf for more information.<BR>
+<BR>
 Uses libraries:
 <BR> torch 1.13.1 
 <BR> torchtext 0.14.1
