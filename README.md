@@ -17,7 +17,7 @@ This code takes a while to run. <BR>
 Run "cleanData.py" to clean the samples in "data.out" into a usable format. <BR>
 The samples will be written to "clean_data.out". <BR>
 <BR>
-Run the notebook to train a transformer on the IMDB dataset. <BR>
+Run the notebook to train a transformer on the reduced/augmented IMDB dataset. <BR>
 The first cell contains some parameters that can control the execution. <BR>
 ADD_DATA - If True, will take the samples from "clean_data.out". <BR>
 FORCE_BALANCE - If True, will duplicate samples to balance the number of positive and negative reviews
