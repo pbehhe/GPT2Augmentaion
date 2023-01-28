@@ -1,4 +1,4 @@
-# GPT2Augmentaion
+# GPT2Augmentation
 An experiment in augmenting IMDB dataset with GPT2. <BR>
 Read Deep_proj.pdf for more information.<BR>
 <BR>
